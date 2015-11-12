@@ -23,7 +23,6 @@
     "connect-assets": "^5.0.1",
     "connect-mongo": "^0.8.2",
     "cookie-parser": "^1.4.0",
-    "csso": "^1.4.1",
     "errorhandler": "^1.4.2",
     "express": "^4.13.3",
     "express-flash": "^0.0.2",
@@ -60,13 +59,12 @@
     "tumblr.js": "^0.0.7",
     "twilio": "^2.5.2",
     "twit": "^2.1.1",
-    "uglify-js": "^2.5.0",
     "validator": "^4.2.1",
     "yui": "^3.18.1"
   },
   "devDependencies": {
     "blessed": "^0.1.81",
-    "chai": "^3.4.0",
+    "chai": "^3.4.1",
     "mocha": "^2.3.3",
     "multiline": "^1.0.2",
     "supertest": "^1.1.0"
